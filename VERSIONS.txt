@@ -1,0 +1,6 @@
+sha256:ghi789
+Improve spec wording for ambiguous usage.
+sha256:def456
+Include test for existing spacing.
+sha256:abc123
+Initial spec and tests.
