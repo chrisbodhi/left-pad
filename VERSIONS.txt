@@ -1,3 +1,5 @@
+sha256:7ffcaa7bb578652e40224d497f9b148e4685aafc096c03a86245903547f873a7
+Migrate to new folder structure.
 sha256:ghi789
 Improve spec wording for ambiguous usage.
 sha256:def456

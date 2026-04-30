@@ -2,7 +2,7 @@ name = "@chrisbodhi/left-pad"
 description = "Pad a string on the left to a given length."
 
 [spec]
-hash = "sha256:ghi789"
+hash = "sha256:7ffcaa7bb578652e40224d497f9b148e4685aafc096c03a86245903547f873a7"
 history = "VERSIONS.txt"
 
 [[language]]

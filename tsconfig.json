@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@chrisbodhi/left-pad": ["./src/lib/left-pad.ts"]
+    }
+  }
+}

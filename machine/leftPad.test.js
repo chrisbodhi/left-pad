@@ -1,4 +1,4 @@
-import leftPad from "../src/index.ts";
+import leftPad from "@chrisbodhi/left-pad";
 import { expect, test } from "bun:test";
 import fc from "fast-check";
 

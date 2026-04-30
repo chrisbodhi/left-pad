@@ -1,4 +1,5 @@
 package_manager = "bun"
 
-# This will be gitignored.
-output = "src/lib/left-pad.ts"
+# Per-package overrides. Copy this file to .buttress.local.toml and edit.
+["@chrisbodhi/left-pad"]
+output = "src/generated/left-pad.ts"
